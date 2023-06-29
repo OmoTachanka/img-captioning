@@ -11,4 +11,4 @@ Example 3 OP: <SOS> a man in a red jacket is standing next to a woman in a red j
 Example 4 CORRECT: A small boat in the ocean\
 Example 4 OP: <SOS> a man is kayaking in the ocean . <EOS>\
 Example 5 CORRECT: A cowboy riding a horse in the desert\
-Example 5 OP: <SOS> a man and a dog are running on a beach . <EOS>\
+Example 5 OP: <SOS> a man and a dog are running on a beach . <EOS>
